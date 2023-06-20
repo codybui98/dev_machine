@@ -1,0 +1,25 @@
+[0.052s] Invoking command in '/home/codybui/dev_machine/build/robot-slam-demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-slam-demo -- -j16 -l16
+[0.116s] Invoked command in '/home/codybui/dev_machine/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-slam-demo -- -j16 -l16
+[0.166s] Invoking command in '/home/codybui/dev_machine/build/robot-slam-demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-slam-demo
+[0.183s] -- Install configuration: ""
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/launch
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/launch/cartographer.launch.py
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/launch/occupancy_grid.launch.py
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/config
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/config/jetson_robot_lds_2d.lua
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/ament_index/resource_index/package_run_dependencies/robot-slam-demo
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/ament_index/resource_index/parent_prefix_path/robot-slam-demo
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/environment/ament_prefix_path.sh
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/environment/ament_prefix_path.dsv
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/environment/path.sh
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/environment/path.dsv
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/local_setup.bash
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/local_setup.sh
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/local_setup.zsh
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/local_setup.dsv
+[0.184s] -- Installing: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/package.dsv
+[0.184s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/ament_index/resource_index/packages/robot-slam-demo
+[0.185s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/cmake/robot-slam-demoConfig.cmake
+[0.186s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/cmake/robot-slam-demoConfig-version.cmake
+[0.186s] -- Up-to-date: /home/codybui/dev_machine/install/robot-slam-demo/share/robot-slam-demo/package.xml
+[0.219s] Invoked command in '/home/codybui/dev_machine/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-slam-demo

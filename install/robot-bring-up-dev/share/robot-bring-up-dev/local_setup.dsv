@@ -1,0 +1,3 @@
+source;share/robot-bring-up-dev/environment/ament_prefix_path.sh
+source;share/robot-bring-up-dev/environment/path.sh
+source;share/robot-bring-up-dev/environment/pythonpath.sh

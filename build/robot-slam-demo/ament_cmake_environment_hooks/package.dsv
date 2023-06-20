@@ -1,0 +1,4 @@
+source;share/robot-slam-demo/local_setup.bash
+source;share/robot-slam-demo/local_setup.dsv
+source;share/robot-slam-demo/local_setup.sh
+source;share/robot-slam-demo/local_setup.zsh

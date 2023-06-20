@@ -1,0 +1,6 @@
+Invoking command in '/home/codybui/dev_machine/build/robot-bring-up-dev': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/codybui/dev_machine/src/robot-bring-up-dev -DCMAKE_INSTALL_PREFIX=/home/codybui/dev_machine/install/robot-bring-up-dev
+Invoked command in '/home/codybui/dev_machine/build/robot-bring-up-dev' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/codybui/dev_machine/src/robot-bring-up-dev -DCMAKE_INSTALL_PREFIX=/home/codybui/dev_machine/install/robot-bring-up-dev
+Invoking command in '/home/codybui/dev_machine/build/robot-bring-up-dev': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-bring-up-dev -- -j16 -l16
+Invoked command in '/home/codybui/dev_machine/build/robot-bring-up-dev' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-bring-up-dev -- -j16 -l16
+Invoking command in '/home/codybui/dev_machine/build/robot-bring-up-dev': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-bring-up-dev
+Invoked command in '/home/codybui/dev_machine/build/robot-bring-up-dev' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-bring-up-dev

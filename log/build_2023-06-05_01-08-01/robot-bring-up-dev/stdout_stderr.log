@@ -1,0 +1,87 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.2 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found rclpy: 1.0.12 (/opt/ros/foxy/share/rclpy/cmake)
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/codybui/dev_machine/build/robot-bring-up-dev
+-- Install configuration: ""
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch/localization_launch.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch/odom.launch.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch/navigation.launch.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch/rviz2.launch.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/launch/joystick.launch.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/config
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/config/nav2_params.yaml
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/config/joystick.yaml
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/170_map.yaml
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/b1_map.yaml
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/lab1_map.yaml
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/lab1_map.pgm
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/170_map.pgm
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/maps/b1_map.pgm
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/rviz
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/rviz/robot3.rviz
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/rviz/robot.rviz
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/rviz/robot2.rviz
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/pythonpath.sh
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/pythonpath.dsv
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/lib/python3.8/site-packages/robot-bring-up-dev
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/lib/python3.8/site-packages/robot-bring-up-dev/__init__.py
+Listing '/home/codybui/dev_machine/install/robot-bring-up-dev/lib/python3.8/site-packages/robot-bring-up-dev'...
+Compiling '/home/codybui/dev_machine/install/robot-bring-up-dev/lib/python3.8/site-packages/robot-bring-up-dev/__init__.py'...
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/lib/robot-bring-up-dev/odom.py
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/ament_index/resource_index/package_run_dependencies/robot-bring-up-dev
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/ament_index/resource_index/parent_prefix_path/robot-bring-up-dev
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/ament_prefix_path.sh
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/ament_prefix_path.dsv
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/path.sh
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/environment/path.dsv
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/local_setup.bash
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/local_setup.sh
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/local_setup.zsh
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/local_setup.dsv
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/package.dsv
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/ament_index/resource_index/packages/robot-bring-up-dev
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/cmake/robot-bring-up-devConfig.cmake
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/cmake/robot-bring-up-devConfig-version.cmake
+-- Installing: /home/codybui/dev_machine/install/robot-bring-up-dev/share/robot-bring-up-dev/package.xml
