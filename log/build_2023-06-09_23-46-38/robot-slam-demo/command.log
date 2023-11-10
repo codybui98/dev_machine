@@ -1,4 +1,0 @@
-Invoking command in '/home/codybui/dev_machine/build/robot-slam-demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-slam-demo -- -j16 -l16
-Invoked command in '/home/codybui/dev_machine/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/codybui/dev_machine/build/robot-slam-demo -- -j16 -l16
-Invoking command in '/home/codybui/dev_machine/build/robot-slam-demo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-slam-demo
-Invoked command in '/home/codybui/dev_machine/build/robot-slam-demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/codybui/dev_machine/build/robot-slam-demo

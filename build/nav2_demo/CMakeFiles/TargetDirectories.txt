@@ -1,9 +1,0 @@
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/install/strip.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/install.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/list_install_components.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/rebuild_cache.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/edit_cache.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/test.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/install/local.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/nav2_demo_uninstall.dir
-/home/codybui/dev_machine/build/nav2_demo/CMakeFiles/uninstall.dir
